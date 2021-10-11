@@ -1,1 +1,1 @@
-# corsns
+# corsns wrapping methods
